@@ -1,3 +1,5 @@
+desc: DFRobot
+url: https://www.dfrobot.com/
 parts:
   motion/rubber_wheel_136_24:
     type: step
