@@ -1,0 +1,8 @@
+parts:
+  motion/rubber_wheel_136_24:
+    type: step
+    desc: Rubber Wheel 136×24mm
+    vendor: dfrobot
+    sku: KIT0044
+    url: https://www.dfrobot.com/product-1006.html
+
